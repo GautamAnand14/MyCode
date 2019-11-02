@@ -17,7 +17,14 @@ namespace LocalGitFirstProject
 
             //change 6
 
+
+            //change 7
+
             //change 10
+
+            //change 9
+
+            //change 8
         }
     }
 }
