@@ -16,6 +16,7 @@ namespace LocalGitFirstProject
             //changes made in master branch2
 
             //change 5
+            //change 6
         }
     }
 }
